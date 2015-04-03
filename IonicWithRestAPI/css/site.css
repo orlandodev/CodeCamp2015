@@ -1,0 +1,11 @@
+﻿body {
+}
+
+.bar-nav {
+    background-color: gray;
+    color: white;
+}
+
+.bar-nav .button-clear {
+    color: white;
+}
